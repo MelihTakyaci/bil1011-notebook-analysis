@@ -177,9 +177,9 @@ The trained models from this notebook are deployed in a **Next.js web applicatio
 
 | Model | Features | R² Score | Best Use Case |
 |-------|----------|----------|---------------|
-| **Linear Regression** | Study Hours | ~0.XX | Quick estimates |
-| **Polynomial Regression** | Course Attempts | ~0.XX | Retake analysis |
-| **Multiple Regression** | Study Hours + Attempts + Year | ~0.XX | Most accurate |
+| **Linear Regression** | Study Hours | 0.060 | Quick estimates |
+| **Polynomial Regression** | Course Attempts | 0.243 | Most accurate |
+| **Multiple Regression** | Study Hours + Attempts + Year | 0.161 | Multivariate analysis |
 
 *Note: See notebook for actual performance metrics*
 
